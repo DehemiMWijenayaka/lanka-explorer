@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "name": "Sigiriya Rock Fortress",
+    "district": "Matale",
+    "category": "Heritage",
+    "description": "A 5th-century rock fortress built by King Kashyapa, rising 200 m above the surrounding plains.",
+    "image": "images/sigiriya.avif",
+    "lat": 7.9570,
+    "lng": 80.7603,
+    "entryFeeUSD": 36,
+    "bestTime": "January to April",
+    "featured": true
+  },
+  {
+    "id": 2,
+    "name": "Ella",
+    "district": "Badulla",
+    "category": "Nature",
+    "description": "A hill-country village known for hiking trails, tea estates and the Nine Arches Bridge.",
+    "image": "images/Ella.avif",
+    "lat": 6.8667,
+    "lng": 81.0466,
+    "entryFeeUSD": 0,
+    "bestTime": "January to May",
+    "featured": true
+  },
+
+  {
+    "id": 3,
+    "name": "Galle Fort",
+    "district": "Galle",
+    "category": "Heritage",
+    "description": "A historic coastal fort built by the Portuguese and later developed by the Dutch. It is famous for its colonial architecture, old streets, lighthouse and ocean views.",
+    "image": "images/GalleFort.avif",
+    "lat": 6.0260,
+    "lng": 80.2168,
+    "entryFeeUSD": 0,
+    "bestTime": "December to April",
+    "featured": true
+  },
+  {
+    "id": 4,
+    "name": "Mirissa Beach",
+    "district": "Matara",
+    "category": "Beach",
+    "description": "A stunning tropical beach with golden sand, turquoise water and beautiful palm trees. Visitors can enjoy swimming, surfing, whale watching and relaxing by the sea.",
+    "image": "images/MirissaBeach.avif",
+    "lat": 5.9483,
+    "lng": 80.4716,
+    "entryFeeUSD": 0,
+    "bestTime": "November to April",
+    "featured": true
+  },
+  {
+    "id": 5,
+    "name": "Horton Plains National Park",
+    "district": "Nuwara Eliya",
+    "category": "Nature",
+    "description": "A beautiful highland national park famous for its grasslands, cloud forests, waterfalls and World's End viewpoint, which offers breathtaking mountain views.",
+    "image": "images/Horton.avif",
+    "lat": 6.8096,
+    "lng": 80.8000,
+    "entryFeeUSD": 15,
+    "bestTime": "January to March",
+    "featured": true
+  }
+]
